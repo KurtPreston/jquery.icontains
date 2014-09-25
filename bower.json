@@ -1,0 +1,24 @@
+{
+  "name": "jquery.icontains",
+  "main": "jquery.icontains.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/KurtPreston/jquery.icontains",
+  "authors": [
+    "Kurt Preston <github@kurtpreston.com>"
+  ],
+  "description": "Case-insensitive text selector for jQuery",
+  "keywords": [
+    "jquery",
+    "contains",
+    "selector",
+    "case-insensitive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
